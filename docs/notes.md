@@ -33,3 +33,4 @@ Notes and usage details for PrivatePixelPrompt.
 - add a note about the defaults
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
